@@ -1,0 +1,11 @@
+form{
+    display: flex;
+    gap: 20px;
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid blue;
+    outline: 0;
+    height: 35px;
+}
